@@ -1,3 +1,5 @@
+// Grace Murphy 9/1/24
+
 #include <algorithm>
 #include <fstream>
 #include <iostream>
@@ -59,8 +61,10 @@ int main() {
          << endl;
   } else {
     cout << "Anagrams found for the word '" << word << "':" << endl;
+    int counter = 1; // add counter to list each anagram
     for (const string &anagram : anagrams) {
-      cout << anagram << endl;
+      cout << counter<< ". "<< anagram << endl;
+      counter ++;
     }
   }
 
