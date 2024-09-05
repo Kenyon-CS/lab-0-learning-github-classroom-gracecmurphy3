@@ -1,0 +1,47 @@
+gracemurphy@Graces-MacBook-Air-3 lab-0-learning-github-classroom-gracecmurphy3 % ./main
+Enter a word: sharp
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'sharp':
+1. harps
+2. sharp
+3. shrap
+gracemurphy@Graces-MacBook-Air-3 lab-0-learning-github-classroom-gracecmurphy3 % ./main
+Enter a word: scare
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'scare':
+1. acres
+2. arces
+3. cares
+4. carse
+5. caser
+6. ceras
+7. cesar
+8. escar
+9. races
+10. sacre
+11. scare
+12. scrae
+13. serac
+gracemurphy@Graces-MacBook-Air-3 lab-0-learning-github-classroom-gracecmurphy3 % ./main
+Enter a word: grace
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'grace':
+1. cager
+2. garce
+3. grace
+gracemurphy@Graces-MacBook-Air-3 lab-0-learning-github-classroom-gracecmurphy3 % ./main
+Enter a word: this
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'this':
+1. hist
+2. hits
+3. isth
+4. shit
+5. sith
+6. this
+7. tshi
+gracemurphy@Graces-MacBook-Air-3 lab-0-learning-github-classroom-gracecmurphy3 % ./main
+Enter a word: garage
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'garage':
+1. garage
